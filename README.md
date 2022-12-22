@@ -1,4 +1,4 @@
-# Authentication-Bypass
+# Authentication-Bypass (Microsoft Training Associate Project)
 In this project I have picked random websites from Google Hacking Website and accessed their admin panel by using SQL Injection and Burpsuite.
 
 Authentication Bypass refers to a method by which an attacker gains access equivalent to an authenticated user without ever going through an authentication procedure.
